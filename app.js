@@ -1,4 +1,4 @@
-const firebaseURL = 'https://console.firebase.google.com/u/0/project/zkouska2-f2653/database/zkouska2-f2653-default-rtdb/data/~2F'; // Replace with your Firebase project URL
+const firebaseURL = 'https://school-2340a-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your Firebase project URL
 
 const brewingOptions = [
   'Ristretto', 'Espresso', 'Double Espresso', 'Lungo/Americano',
